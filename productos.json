@@ -1,0 +1,57 @@
+[
+
+{
+
+    "zapatillas" : "Nike",
+    "modelo"     :  "Run",
+    "produccion" :  2015,
+    "componente" :  "Poliester y caucho"
+
+},
+
+{
+
+    "reloj"      : "Casio",
+    "modelo"     : "S-bw",
+    "produccion": 2017,
+    "autonomia"  : 1000,
+    "componente" : "Acrilico y goma"
+    
+
+},
+
+
+{
+
+    "audifonos"  : "Electronic",
+    "modelo"     : "soundbarrier",
+    "produccion" : 2016,
+    "componente" : "silicona y acrilico"
+
+
+},
+
+
+{
+
+    "perfume"  : "Boticario",
+    "modelo"     : "Arbo",
+    "produccion" : 2020,
+    "componente" : "Alcohol y esencias"
+
+
+},
+
+{
+
+    "smartwatch"  : "Future",
+    "modelo"     : "Axion",
+    "produccion" : 2021,
+    "componente" : "silicona y acrilico"
+
+
+}
+
+
+
+]
